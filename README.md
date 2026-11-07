@@ -132,6 +132,9 @@ Configure the application activity and launcher intent filter.
 **Note:** `SEND_SMS` permission is not required because the application opens the default SMS application using an implicit Intent. The user manually sends the message.
 
 ## OUTPUT:
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/cdccdc6a-6c38-41f8-b355-cc3c8c2387e7" />
+<img width="941" height="1672" alt="image" src="https://github.com/user-attachments/assets/5124ba39-596c-4205-8be2-b99055f959cc" />
+
 
 
 ## RESULT:
